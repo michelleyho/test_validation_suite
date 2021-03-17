@@ -1,0 +1,12 @@
+---
+    - name: "Basic Configuration"
+    - name: "Basic Configuration Mode 0"
+    - name: "High Bandwith Read"
+    - name: "High Bandwidth Write"
+    - name: "Read Write"
+    - name: "Virtualization" 
+    - name: "Multi"
+    - name: "Single"
+    - name: "Stress"
+    - name: "Interrupt Test"
+    - name: "Error Handling"
